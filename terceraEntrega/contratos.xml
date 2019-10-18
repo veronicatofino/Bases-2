@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Contrato>
+	<fecha_Contrato>01/08/2019</fecha_Contrato>
+	<fecha_Corte>01/08/2020</fecha_Corte>
+	<id_Sucursal>1</id_Sucursal>
+	<Cliente>
+		<numero_Documento>1</numero_Documento>
+		<tipo_Documento>Cedula</tipo_Documento>
+		<primer_Nombre>Veronica</primer_Nombre>
+		<segundo_Nombre>Maria</segundo_Nombre>
+		<primer_Apellido>Tofino</primer_Apellido>
+		<segundo_Apellido>Rodriguez</segundo_Apellido>
+		<direccion>Carrera 85D</direccion>
+		<fecha_Nacimiento>08/01/1999</fecha_Nacimiento>
+		<sexo>Femenino</sexo>
+		<ocupacion>Estudiante</ocupacion>
+		<rango_Salarial_Menor>3000000</rango_Salarial_Menor>
+		<rango_Salarial_Mayor>4300000</rango_Salarial_Mayor>
+		<telefono>3126548685</telefono>
+		<correo>veronica@gmail.com</correo>
+		<nombre_Ciudad>cali</nombre_Ciudad>
+	</Cliente>
+	<id_CatxPlan>21</id_CatxPlan>
+</Contrato>
